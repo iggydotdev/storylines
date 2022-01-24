@@ -1,0 +1,43 @@
+{	
+	"user": {
+		"name": "Iggy",
+		"items": [
+			{
+				"label":"Head",
+				"imgSrc": "https://via.placeholder.com/64",
+				"name": "AWS cap",
+				"stats": {
+					"Int": "+1",
+					"Speed":"+1"
+				}
+			},
+			{
+				"label":"T-shirt",
+				"imgSrc": "https://via.placeholder.com/64",
+				"name": "Jedi Inside",
+				"stats": {
+					"Int": "+3"
+				}
+			}
+		],
+		"gear": [
+			{
+				"label":"Keyboard",
+				"imgSrc": "https://via.placeholder.com/64",
+				"name": "ErgoDox",
+				"stats": {
+					"Int": "+9000",
+					"Speed":"+9000"
+				}
+			},
+			{
+				"label":"Wristband",
+				"imgSrc": "https://via.placeholder.com/64",
+				"name": "Fitbit",
+				"stats": {
+					"Health": "+30"
+				}
+			}
+		]
+	}
+}
